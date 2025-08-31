@@ -1,6 +1,8 @@
 # Hi, I'm Elias Agidew 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I'm a Web Developer with expertise in building dynamic, responsive web applications. Skilled in React, HTML, CSS, JavaScript, and back-end technologies like Node.js and MySQL, 1 focus on creating visually appealing and high-performance websites.
+I thrive in collaborative environments, working with teams to deliver user-friendly solutions. Proficient in responsive design and version control with Git, I'm committed to continuous learning and staying up-to-date with new technologies.
+If you're seeking a Web Developer who combines technical proficiency with a passion for impactful web experiences, let's connect!
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
